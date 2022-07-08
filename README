@@ -1,0 +1,15 @@
+# Superset launcher
+
+This project is a derivative of the superset:1.5.0 project which includes the map of Cote d'Ivoire.
+
+## Prerequisites
+
+- Docker](https://docs.docker.com/engine/install/ubuntu/) 
+- Docker-compose
+
+## Launching 
+
+```
+docker-compose up
+```
+After launching go to http://localhost:8088 and log in with u/p admin/admin
